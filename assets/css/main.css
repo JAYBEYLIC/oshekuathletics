@@ -8825,7 +8825,7 @@ tr:first-child {
 }
 
 .inner-page-banner {
-  background-image: url("../images/banner/bannerbg-inner.jpg");
+  background-image: url("../images/banner/run2.jpg");
   background-size: cover;
   background-position: bottom;
   padding-top: 260px;
@@ -18549,6 +18549,7 @@ tr:first-child {
 .rts-champion-section .player-image {
   position: absolute;
   top: 0;
+  background-color: #0d6efd;
   z-index: -1;
   -webkit-animation: hero-move2 40s infinite linear;
           animation: hero-move2 40s infinite linear;
@@ -18620,9 +18621,13 @@ tr:first-child {
   line-height: 26px;
   color: #777777;
   font-weight: 400;
+  color: black;
+  font-family: sans-serif;
 }
 .rts-champion-section .champion-details .contents p.p1 {
   margin-bottom: 20px;
+  color: black;
+    font-family: sans-serif;
 }
 .rts-champion-section .champion-details .details-video {
   position: relative;
